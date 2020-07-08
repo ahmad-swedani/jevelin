@@ -14,7 +14,7 @@
 
 header {
     font-family: 'Montserrat', sans-serif;
-    background-image: url("../img/nav-bg.jpg");
+    background-image: url("./img/nav-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 610px;
