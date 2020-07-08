@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+/* font-family: 'Fjalla One', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+* {
+    box-sizing: border-box;
+    color: #363636;
+}
+
+header {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(/img/nav-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 610px;
+    width: 100%;
+    background-position: center;
+}
+
+nav {
+    float: right;
+    margin: -2% 23.5% 0 0;
+}
+
+nav ul li {
+    padding: 0 0 0 22px;
+    font-size: 11px;
+    display: inline;
+}
+
+nav ul li a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+ 
+}
+
+/* main{
+    background-color: rebeccapurple;
+    margin: -7% 9.5% 0 0;
+} */
