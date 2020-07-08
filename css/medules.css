@@ -158,7 +158,7 @@
 
 #ar2 {
     font-family: 'Montserrat', sans-serif;
-    background-image: url(/img/ar2-bg.jpg);
+    background-image: url(./img/ar2-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -339,7 +339,7 @@ font-weight: bolder;
 
 #ar4 {
     font-family: 'Montserrat', sans-serif;
-    background-image: url(/img/ar4-bg.jpg);
+    background-image: url(./img/ar4-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
